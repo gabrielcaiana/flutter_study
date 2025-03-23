@@ -73,7 +73,7 @@ Este é um repositório pessoal para documentar meu aprendizado. No entanto, sug
 
 ## 📅 Progresso
 
-- [ ] Módulo 1: Fundamentos de Flutter
+- [x] Módulo 1: Fundamentos de Flutter
 - [ ] Módulo 2: Noçóes básicas de Flutter
 - [ ] Módulo 3: Debbuging & Diferentes Dispositivos
 - [ ] Módulo 4: Construindo App Real - Despesas Pessoais
